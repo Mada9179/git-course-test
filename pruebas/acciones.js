@@ -1,1 +1,1 @@
-console.log("se agrega cambios a acciones");
+console.log("se agrega cambios a acciones se agregan cambios");
